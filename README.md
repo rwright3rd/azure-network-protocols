@@ -59,11 +59,3 @@ I then installed Wireshark on the WIN10 VM-1 by going to the download page of ww
 Utilizing Wireshark, I ran several various -pings running powershell. While running powershell, I then SSH'd into my Linux Ubuntu Server VM-2 and began running various -pings for ICMP, SSH, DHCP, DNS, and RDP traffic.
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
