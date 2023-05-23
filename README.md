@@ -1,4 +1,3 @@
-# Azure-Network-Protocols
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
@@ -22,24 +21,23 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create two Virtual Machines (VM) Windows 10 and Ubuntu Server, using Azure.
+- Use Remote Desktop to access Windows 10 Virtual Machine.
+- Install Wireshark on Windows 10 VM.
+- Utilize Wireshark to observe ICMP, SSH, DHCP, DNS, and RDP traffic.
 
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/flVt3xS" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/flVt3xS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I started off creating two virtual machines. VM-1 is Windows 10 and VM-2 is Ubuntu Server.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a/MbZtN91.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
